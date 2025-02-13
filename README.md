@@ -1,1 +1,2 @@
 # SlitherLoop-Wraparound-Snake
+A modern twist on the classic Snake arcade game built with C++ and SFML, featuring seamless screen-wrapping mechanics and retro-inspired gameplay. Players navigate a growing serpent to collect food while avoiding self-collision, with smooth grid-based movement and dynamic score tracking. The project showcases object-oriented design with collision detection, responsive controls, and SFML graphics rendering.
